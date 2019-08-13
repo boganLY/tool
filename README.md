@@ -29,8 +29,3 @@
   > Toolzl 是一个聚合了超过 150 个实用工具的在线工具资料箱。
 
   点击直达: [Toolzl](https://zhimap.com/)
-  
-### Ant Design Pro
-  > 开箱即用的中台前端/设计解决方案。此仓库是 Ant Design Pro 的 layout, 是为了方便快速的使用 layout 而开发。
-  
-  点击直达: [Ant Design Pro](https://github.com/ant-design/ant-design-pro-layout/blob/master/README.zh-CN.md)
