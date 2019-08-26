@@ -29,3 +29,8 @@
   > Toolzl 是一个聚合了超过 150 个实用工具的在线工具资料箱。
 
   点击直达: [Toolzl](https://zhimap.com/)
+
+### 7.SelectMenu
+  > 基于jQuery的简洁、易用、多样的菜单解决方案。
+  
+  点击直达：[SelectMenu](https://terryz.gitee.io/selectmenu/)
