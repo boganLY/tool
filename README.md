@@ -34,3 +34,8 @@
   > 基于jQuery的简洁、易用、多样的菜单解决方案。
   
   点击直达：[SelectMenu](https://terryz.gitee.io/selectmenu/)
+  
+### 8.bigjpg
+  > 图片无损放大（动漫，插画效果不错）
+  
+  点击直达：[bigjpg](https://bigjpg.com/zh)
